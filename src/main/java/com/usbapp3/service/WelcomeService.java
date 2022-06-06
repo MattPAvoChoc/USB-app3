@@ -1,7 +1,6 @@
-package com.usbapp3.usbapp3;
+package com.usbapp3.service;
 
 import org.springframework.stereotype.Component;
-import org.springframework.stereotype.Service;
 
 @Component
 public class WelcomeService{
